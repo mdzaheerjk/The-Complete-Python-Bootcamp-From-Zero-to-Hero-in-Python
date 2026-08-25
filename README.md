@@ -1,4 +1,4 @@
-# Complete Python Advanced Bootcamp
+# The Complete Python Bootcamp From Zero to Hero in Python
 
 A comprehensive collection of Jupyter Notebooks covering advanced Python concepts and practical implementations for intermediate to advanced learners.
 
